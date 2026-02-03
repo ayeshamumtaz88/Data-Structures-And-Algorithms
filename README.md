@@ -1,14 +1,8 @@
-#Data-Structures-And-Algorithms
-Lab Tasks (Week 1)
-This repository contains DSA lab tasks of Week 1 in C++ Languague.
+# Data Structures And Algorithms
 
-#Tasks Included:
-Linear Search in 1D Array,
-Update element at given index in 1D Array,
-Reverse a 1D Array
-
-#Student Information :
-Name : Ayesha Mumtaz,
-Department : Software Engneering,
-Course : Data Structures And Algorithams
-
+This repository contains DSA lab programs in C++ including
+ Linear Search,
+ Update element in array,
+ Reverse 1D array
+ 
+# Submitted by: Ayesha Mumtaz
