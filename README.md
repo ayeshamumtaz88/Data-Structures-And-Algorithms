@@ -5,4 +5,10 @@ This repository contains DSA lab programs in C++ including
  Update element in array,
  Reverse 1D array
  
-# Submitted by: Ayesha Mumtaz
+ # Student Information :
+ 
+ Name : Ayesha Mumtaz 
+
+ Department : Software Engneering
+
+ Course : Data Structures and Algorithams
