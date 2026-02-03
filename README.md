@@ -9,5 +9,5 @@ Reverse a 1D Array
 # Student Information :
 Name : Ayesha Mumtaz,
 Department : Software Engneering,
-Course : Data Structures
+Course : Data Structures And Algorithams
 
