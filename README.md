@@ -1,5 +1,5 @@
 # Data-Structures-And-Algorithms
-# Data Structures Lab Tasks (Week 1)
+# Lab Tasks (Week 1)
 This repository contains DSA lab tasks in C++ of week 1.
 
 # Tasks Included:
