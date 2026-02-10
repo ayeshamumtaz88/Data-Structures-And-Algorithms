@@ -1,9 +1,8 @@
 # Data Structures And Algorithms
 
-This repository contains DSA lab programs in C++ including
- Linear Search,
- Update element in array,
- Reverse 1D array
+This repository contains DSA lab programs in C++ Language .
+Lab Tasks (Week 1)
+Lab Tasks (Week 2)
  
  # Student Information :
  
